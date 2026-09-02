@@ -1,9 +1,9 @@
 {
-  "version": "0.5.7",
-  "build": 16,
+  "version": "0.5.8",
+  "build": 17,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.7/NotchIsland-0.5.7.zip",
-  "sha256": "481562ab99f424ef085c55afc4386c97e0eabbb1d5ce03290f48128adf89fa1e",
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.8/NotchIsland-0.5.8.zip",
+  "sha256": "dbaabc5c7173922b221fbf73f8164a22cb7ad06624d6763eceeba154e3d2841d",
   "notes": "",
-  "signature": "TE4syKiY/rFFshhPhrWWWEYgR7oMRmPGrB9/IuCclJAIRGpXv1ZYVtXkidCi3WcbpXr/Na67VioA3NIhOuvDAA=="
+  "signature": "BRGVevL7Q/mHr9QoP/aHf+l7coV2tgYVkAx3V3FrXX41dSP5XgVWrCuUyJNbigmbAePMObkE8Z3s5fD2MqRECw=="
 }
