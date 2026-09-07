@@ -1,9 +1,9 @@
 {
-  "version": "0.5.15",
-  "build": 24,
+  "version": "0.5.16",
+  "build": 25,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.15/NotchIsland-0.5.15.zip",
-  "sha256": "2e35013e15252ff41afde18ea95b3eb0cefe4e38ad230f89e6807842af99192c",
-  "notes": "",
-  "signature": "e8O9jgacI8SsRRZLBqzQ/+nJcc495NQZFkOnp7JmHUl1Ggi/TgZBUuXgAa+mj85dPOzvYl52Ui1DKyohmDnFCg=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.16/NotchIsland-0.5.16.zip",
+  "sha256": "eaf36bcc0caf514e5e3ab68f66a8307d40959cca75222e050941d458eeef601e",
+  "notes": "Дозволи: «Надати» більше не сіріє після Доступності/Звуку; пропуск у майстрі знімається, щойно дозвіл видано; скасування пароля sudoers — не помилка; автозапуск відкриває панель, коли потрібне схвалення; після unlock клавіатури не лишається tap.",
+  "signature": "1ZWhOqSz6bA9fqaa/EzW5h7OCfOH3bw7E0Ffk1yCBiLYMe73Bj50++m3dcsBCYYQlvXrLa0QLwo5ZMtEshtrBw=="
 }
