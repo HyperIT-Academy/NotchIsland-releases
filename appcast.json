@@ -1,9 +1,9 @@
 {
-  "version": "0.5.17",
-  "build": 26,
+  "version": "0.5.18",
+  "build": 27,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.17/NotchIsland-0.5.17.zip",
-  "sha256": "180ce021820755671293252cd15ecef47d245d57286714811e9a588ae88d4354",
-  "notes": "Технічний реліз без змін: перевірка, що автооновлення доїжджає до всіх.",
-  "signature": "+FS7hwO+oe/mINF8Jy44K5XVRRkmKMrFDktRObSxM/oIR90lEQKm2B2QXARHC62ycsfELDzNZ9cfJCgA2XwaAA=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.18/NotchIsland-0.5.18.zip",
+  "sha256": "8ad45b0d9a362955f65228be001b59a1b3dcbbd226371a6746f483b8464053ce",
+  "notes": "Сповіщення про нову версію: «встановлюю зараз» або чому відкладено. Перший раз macOS спитає дозвіл на сповіщення.",
+  "signature": "ndUoS0yQUjwyLbhCVs6plgqNWiO14ucBYKAvCHK6qZadLTBQQp7Nb7u1DmnNsLfmotqeUN1h5UzstjnfmjBuBg=="
 }
