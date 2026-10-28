@@ -1,9 +1,9 @@
 {
-  "version": "0.5.23",
-  "build": 32,
+  "version": "0.5.24",
+  "build": 33,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.23/NotchIsland-0.5.23.zip",
-  "sha256": "137e6a816eb23c0f53c6cf34aeeef1274e9a5a8435493afacfe3293cf05586b7",
-  "notes": "Виправлено хибне зникнення позначок дозволів. Тимчасово недоступна перевірка зберігає попереднє підтвердження після перезапуску. Стан автоматизації Chrome більше не залежить від відкритих вкладок або JS-тумблера; явна відмова macOS відображається окремо.",
-  "signature": "1mku0TKInT7He2Denrhw9ZUT/NperuqNMYIbbxRZZdhHK2xE4SPRFtIG1COoKHHYuH2kfRO2lGWMdmckKIDeCw=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.24/NotchIsland-0.5.24.zip",
+  "sha256": "15e44dbcf6fca15f7aba90488b910463a76791ac1f0f5f0add322b825247c852",
+  "notes": "Під час повноекранного перегляду всі панелі NotchIsland приховані. Наведення на зону відкриття показує острів; після виходу курсора він ховається разом із мініплеєром та HUD гучності. Повернення зі fullscreen відновлює звичайну поведінку.",
+  "signature": "YTa7CFEDFvAUapRO0j9Xm6pZ7orSuz1Zq8eqzMqbXJdJKErJ3x3KONOA7tcWNi9NAAo+KPU0DOgQnAfRuqecBA=="
 }
