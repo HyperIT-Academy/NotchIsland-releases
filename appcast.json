@@ -1,9 +1,9 @@
 {
-  "version": "0.5.27",
-  "build": 36,
+  "version": "0.5.28",
+  "build": 37,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.27/NotchIsland-0.5.27.zip",
-  "sha256": "397c4ecd80277bacaef01cd9f928417caa51504147c14c5ce6f2d916ce60b1c0",
-  "notes": "Повзунки гучності реагують лише на рух угору й униз: боковий або діагональний жест мишею більше не змінює рівень ні системної гучності, ні гучності застосунків. Клік по шкалі, як і раніше, ставить рівень у точку кліку.",
-  "signature": "0ZYb3tsou3xrNSjnKsurR+PASoStL4zBW2ymzb7UEnlOLiwwG3cwRrM7+lTx3ULsvepM1A90IPOAEn7U0r53Dg=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.28/NotchIsland-0.5.28.zip",
+  "sha256": "d2655d051201c6472ba7ef4536ec94d0fa066ea5c62d983aa4d0ad9317f4d7a2",
+  "notes": "Після автооновлення нова іконка застосунку сама з’являється в Dock і Launchpad, без перезавантаження Mac: якщо в новій версії змінилась іконка, NotchIsland один раз оновлює її реєстрацію та перезапускає Dock і Spotlight.",
+  "signature": "yMVmFrNsToTJTEG6MR9jFj8OD/V8yJWXX52kyeZ7feLv8YESBTbOgYTrJ2S/53Fk2D70H0iypbUXeZQkxeuhCw=="
 }
