@@ -1,9 +1,9 @@
 {
-  "version": "0.5.26",
-  "build": 35,
+  "version": "0.5.27",
+  "build": 36,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.26/NotchIsland-0.5.26.zip",
-  "sha256": "53e21756407e8568d3ac1e9e7c3995de1945f8ce79f389da778bc3f161e29175",
-  "notes": "Виправлено системний повзунок гучності: боковий рух миші більше не змінює рівень і не скидає його до нуля. Ручка слідує лише за вертикальним рухом та зберігає значення під час відповіді аудіосистеми. Панель мікшера не масштабується під час регулювання. Додано керування системною гучністю стрілками клавіатури.",
-  "signature": "CemCm9syUYXCKSrk4KV9tRQyicpWW9Rpe/VRsbtB2O9SOPIMFe3yfXXhHUDpbDEmm7nFLXMzKKT3G7+KpGBPDg=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.27/NotchIsland-0.5.27.zip",
+  "sha256": "397c4ecd80277bacaef01cd9f928417caa51504147c14c5ce6f2d916ce60b1c0",
+  "notes": "Повзунки гучності реагують лише на рух угору й униз: боковий або діагональний жест мишею більше не змінює рівень ні системної гучності, ні гучності застосунків. Клік по шкалі, як і раніше, ставить рівень у точку кліку.",
+  "signature": "0ZYb3tsou3xrNSjnKsurR+PASoStL4zBW2ymzb7UEnlOLiwwG3cwRrM7+lTx3ULsvepM1A90IPOAEn7U0r53Dg=="
 }
