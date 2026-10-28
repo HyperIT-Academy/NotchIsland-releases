@@ -1,9 +1,9 @@
 {
-  "version": "0.5.21",
-  "build": 30,
+  "version": "0.5.22",
+  "build": 31,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.21/NotchIsland-0.5.21.zip",
-  "sha256": "3bd1e1e2a64d460015bf01aa65535df046629ba2ad58f55a58fac756b1d4e1de",
-  "notes": "Регулятори підсвітки клавіатури та Night Shift закриваються через 3 секунди після виходу курсора. Повернення курсора й перетягування скасовують закриття; основна панель залишається відкритою під курсором.",
-  "signature": "SuEM/drfChd0tC4Wbj9in6pg8GEvd4x9DZMVNpg8JNk1tctQDWOs7mV9kskaXmgDnfi8rfxXwDGaYgvjsFs7Bw=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.22/NotchIsland-0.5.22.zip",
+  "sha256": "d2fd531368c89275e7baee3b297cdbcdca7fbdda4bc6db3eedb38a9a0e7d55ea",
+  "notes": "Виправлено відскок повзунка гучності застосунків: рух миші має власне актуальне значення без запізнілої анімації, регулювання точніше. Перетин 100% під час перетягування більше не перезапускає аудіоканал.",
+  "signature": "58CKSDRdlG4o2urSk4PSXy+jS77UCbdwmv1mlBEbJcfb0FUf8AwGd2u1m8B8gSUkWwBn8CrZCqfYHZdmNKFUAA=="
 }
