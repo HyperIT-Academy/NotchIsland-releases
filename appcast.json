@@ -1,9 +1,9 @@
 {
-  "version": "0.5.20",
-  "build": 29,
+  "version": "0.5.21",
+  "build": 30,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.20/NotchIsland-0.5.20.zip",
-  "sha256": "0c0c3d5a5551a153ba2d1be78caabc1a5647b2fc7ac92cc8f6d062dbca1fee3b",
-  "notes": "Плавні переходи обкладинок, підсвічування плиток і світловий контур острова. Плавний прогрес плеєра, узгоджені переходи та підтримка Зменшення руху; приховані декоративні анімації зупиняються.",
-  "signature": "Ozqo/REOX/3hL8MiBCRQVE75Kad8V/cZTCfb82lToGs0ZbeksaL4/NN8AW9b/FjoTj4+4IEpqT9kNE7BLxINDQ=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.21/NotchIsland-0.5.21.zip",
+  "sha256": "3bd1e1e2a64d460015bf01aa65535df046629ba2ad58f55a58fac756b1d4e1de",
+  "notes": "Регулятори підсвітки клавіатури та Night Shift закриваються через 3 секунди після виходу курсора. Повернення курсора й перетягування скасовують закриття; основна панель залишається відкритою під курсором.",
+  "signature": "SuEM/drfChd0tC4Wbj9in6pg8GEvd4x9DZMVNpg8JNk1tctQDWOs7mV9kskaXmgDnfi8rfxXwDGaYgvjsFs7Bw=="
 }
