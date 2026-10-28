@@ -1,9 +1,9 @@
 {
-  "version": "0.5.19",
-  "build": 28,
+  "version": "0.5.20",
+  "build": 29,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.19/NotchIsland-0.5.19.zip",
-  "sha256": "56ea78f4175000386382fbeec6d56b285c2ad6f1741219180f1c04f323968960",
-  "notes": "Нова іконка NotchIsland: темний скляний острів зі світловим контуром, індикатором стану та звуковою хвилею.",
-  "signature": "+rtUxVcNPdzwwHOfH3r11gPwH351EynDbTrd0R2/jJ3N4fKVOHtPKUTxujObvklNzsHj15vKRA/hrA5RjVPdDQ=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.20/NotchIsland-0.5.20.zip",
+  "sha256": "0c0c3d5a5551a153ba2d1be78caabc1a5647b2fc7ac92cc8f6d062dbca1fee3b",
+  "notes": "Плавні переходи обкладинок, підсвічування плиток і світловий контур острова. Плавний прогрес плеєра, узгоджені переходи та підтримка Зменшення руху; приховані декоративні анімації зупиняються.",
+  "signature": "Ozqo/REOX/3hL8MiBCRQVE75Kad8V/cZTCfb82lToGs0ZbeksaL4/NN8AW9b/FjoTj4+4IEpqT9kNE7BLxINDQ=="
 }
