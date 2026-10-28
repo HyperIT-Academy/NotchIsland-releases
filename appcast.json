@@ -1,9 +1,9 @@
 {
-  "version": "0.5.18",
-  "build": 27,
+  "version": "0.5.19",
+  "build": 28,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.18/NotchIsland-0.5.18.zip",
-  "sha256": "8ad45b0d9a362955f65228be001b59a1b3dcbbd226371a6746f483b8464053ce",
-  "notes": "Сповіщення про нову версію: «встановлюю зараз» або чому відкладено. Перший раз macOS спитає дозвіл на сповіщення.",
-  "signature": "ndUoS0yQUjwyLbhCVs6plgqNWiO14ucBYKAvCHK6qZadLTBQQp7Nb7u1DmnNsLfmotqeUN1h5UzstjnfmjBuBg=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.19/NotchIsland-0.5.19.zip",
+  "sha256": "56ea78f4175000386382fbeec6d56b285c2ad6f1741219180f1c04f323968960",
+  "notes": "Нова іконка NotchIsland: темний скляний острів зі світловим контуром, індикатором стану та звуковою хвилею.",
+  "signature": "+rtUxVcNPdzwwHOfH3r11gPwH351EynDbTrd0R2/jJ3N4fKVOHtPKUTxujObvklNzsHj15vKRA/hrA5RjVPdDQ=="
 }
