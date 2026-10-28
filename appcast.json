@@ -1,9 +1,9 @@
 {
-  "version": "0.5.24",
-  "build": 33,
+  "version": "0.5.25",
+  "build": 34,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.24/NotchIsland-0.5.24.zip",
-  "sha256": "15e44dbcf6fca15f7aba90488b910463a76791ac1f0f5f0add322b825247c852",
-  "notes": "Під час повноекранного перегляду всі панелі NotchIsland приховані. Наведення на зону відкриття показує острів; після виходу курсора він ховається разом із мініплеєром та HUD гучності. Повернення зі fullscreen відновлює звичайну поведінку.",
-  "signature": "YTa7CFEDFvAUapRO0j9Xm6pZ7orSuz1Zq8eqzMqbXJdJKErJ3x3KONOA7tcWNi9NAAo+KPU0DOgQnAfRuqecBA=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.25/NotchIsland-0.5.25.zip",
+  "sha256": "b09a752ce9bc3b276b38e26eae94ad87d8ae4eeabe5132aef2f6b16f6203e666",
+  "notes": "Мікшер обробляє системні аудіовиклики у фоновій черзі та зберігає останній рух повзунка. Завислі аудіоканали мають обмежене автоматичне відновлення. Покращено перетворення моно/стерео, плавність підсвітки та Night Shift. Перемотування перевіряє поточний трек і вкладку. П’ять окремих натискань Escape розблоковують клавіатуру.",
+  "signature": "Wf4X0VyzhTN85E6jnjFlRMI/6KRIs6aJIaOoYib/PskWj5YGNnKqBVNEbyVQs5PdL+eRODhDxgAfP/QS372nDg=="
 }
