@@ -1,9 +1,9 @@
 {
-  "version": "0.5.29",
-  "build": 38,
+  "version": "0.5.30",
+  "build": 39,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.29/NotchIsland-0.5.29.zip",
-  "sha256": "435b5d9e506d2b4beba9cfe79b4c10fcfd6bf78ac845d55d4fbd3b31e6ff60d2",
-  "notes": "Встановлення та оновлення однією командою в Терміналі — без діалогів Gatekeeper і зазвичай без пароля. Установник .pkg тепер завжди оновлює копію в «Програмах». Автозапуск разом із macOS вмикається одразу на першому запуску.",
-  "signature": "fuKX2pTTn2z0TB3NjSif6eo+1/24fSDW32G92HI3G1rUk5UbcNbjK5/xyT7gW2eFLse58Jb0VGskmiH9P90nDA=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.30/NotchIsland-0.5.30.zip",
+  "sha256": "ba82c2552d3ac4f798500566e86d50c77a1acf32b9b79193c6e61362812c9311",
+  "notes": "Острівець стає точно над чолкою на будь-якій моделі MacBook: положення рахується від фактичного вирізу, який повідомляє macOS для твого екрана й масштабу. У Налаштуваннях → Стан видно модель Mac і виміряний розмір чолки.",
+  "signature": "tvIBsJ+A+pxJ+YDAR+wFjKmtf7UE0IvmDawsSzWIjyAZfD4t2YD+BpkACJ8EwewrobTk1MIotmnHmCH04cSaAg=="
 }
