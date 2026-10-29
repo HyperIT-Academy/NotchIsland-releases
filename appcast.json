@@ -1,9 +1,9 @@
 {
-  "version": "0.5.30",
-  "build": 39,
+  "version": "0.5.31",
+  "build": 40,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.30/NotchIsland-0.5.30.zip",
-  "sha256": "ba82c2552d3ac4f798500566e86d50c77a1acf32b9b79193c6e61362812c9311",
-  "notes": "Острівець стає точно над чолкою на будь-якій моделі MacBook: положення рахується від фактичного вирізу, який повідомляє macOS для твого екрана й масштабу. У Налаштуваннях → Стан видно модель Mac і виміряний розмір чолки.",
-  "signature": "tvIBsJ+A+pxJ+YDAR+wFjKmtf7UE0IvmDawsSzWIjyAZfD4t2YD+BpkACJ8EwewrobTk1MIotmnHmCH04cSaAg=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.31/NotchIsland-0.5.31.zip",
+  "sha256": "330e132a240cef2184bcf238010c00e4064f620aebde92804d59501824b11117",
+  "notes": "Острівець відкривається плавніше: форма м’якше доплива на місце, а іконки проявляються з легкого розмиття. Фон відкритої панелі — абсолютно чорний, як сама чолка. У згорнутому острівці видно обидві жовті крапки (не засинати і режим закритої кришки). Клік по чорному фону більше не ховає іконки — згорнути панель можна кліком по чолці.",
+  "signature": "6L5iCV9X41a5sGp5XaA/d1eFuttvDETaReBVx45kSvZEaK8pqsDjCX6nITkKEKScNFkEac6LdNmAdbg2HEebDA=="
 }
