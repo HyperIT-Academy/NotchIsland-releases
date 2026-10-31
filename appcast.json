@@ -1,9 +1,9 @@
 {
-  "version": "0.5.31",
-  "build": 40,
+  "version": "0.5.32",
+  "build": 41,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.31/NotchIsland-0.5.31.zip",
-  "sha256": "330e132a240cef2184bcf238010c00e4064f620aebde92804d59501824b11117",
-  "notes": "Острівець відкривається плавніше: форма м’якше доплива на місце, а іконки проявляються з легкого розмиття. Фон відкритої панелі — абсолютно чорний, як сама чолка. У згорнутому острівці видно обидві жовті крапки (не засинати і режим закритої кришки). Клік по чорному фону більше не ховає іконки — згорнути панель можна кліком по чолці.",
-  "signature": "6L5iCV9X41a5sGp5XaA/d1eFuttvDETaReBVx45kSvZEaK8pqsDjCX6nITkKEKScNFkEac6LdNmAdbg2HEebDA=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.32/NotchIsland-0.5.32.zip",
+  "sha256": "a108d90dcc9ad8fbd8ecab5221e218dc7a90007c92aeff07d9c8b05ab1d5956f",
+  "notes": "Буст понад 100% звучить чисто: гучні піки тепер м’яко притишуються, а не обрізаються, тож на 200–300% немає хрипу. На Маках із чолкою острів ховається в повноекранному відео (Chrome, Safari) і з’являється при наведенні. «Не засинати» можна ввімкнути на 30 хв – 4 год (Налаштування → Не засинати). Гучність у мікшері точно регулюється прокруткою над повзунком. Новий перемикач «Чорний екран на час блокування» — зручно протерти й екран. Виправлено: під час оновлення застосунок міг не закритися, і Mac переставав засинати.",
+  "signature": "Rg0ZP6dSg3ghy/iAhdgEKKVV9WHO9FnlzuhMNLc1q19BKgAarz/QzY+pgym7MIo8SrbqIhut/0Wul6NGo8QKAA=="
 }
