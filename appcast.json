@@ -1,9 +1,9 @@
 {
-  "version": "0.5.33",
-  "build": 42,
+  "version": "0.5.34",
+  "build": 43,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.33/NotchIsland-0.5.33.zip",
-  "sha256": "6fee1d17a4063e28dfe1c3f45996b02e624d43ab8849f980a6f29435dc8f4bb2",
-  "notes": "Нова плитка «Уроки»: відлік до найближчої зустрічі з календаря macOS (зокрема Google Calendar) — у панелі та праворуч від чолки; календарі вибираються в Налаштуваннях, дозвіл просить лише після натискання. Налаштування тепер у чотирьох вкладках. Плитки панелі можна вимикати: Налаштування → Основні → «Функції острова» — вимкнена плитка зупиняє й саму функцію, а панель стає вужчою.",
-  "signature": "hGof5t5F7KyVQSw0m6koNZISZKBhc3wS8HL6eg9VQ9+3NnR9TIWrXRgMNEXyV45fWErj2ri/soyQ5M3e+5wIAg=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.34/NotchIsland-0.5.34.zip",
+  "sha256": "6d3c1f994dd0ef209114f3faca16a84c8965d265695375893897ca8ae8670c1b",
+  "notes": "Поки йде урок, праворуч від чолки з'являється таймер — скільки лишилось до кінця заняття (останні 5 хвилин — оранжевим). Між уроками показується відлік до наступного, як і раніше. У панелі «Уроки» — час завершення, прогрес уроку і найближчі заняття. Працює з календарем macOS, зокрема Google Calendar; вмикається і вимикається плиткою «Уроки» в Налаштуваннях.",
+  "signature": "vYhG3FRE8UtJYx//fQv92fMcQJkuiCA+whvme665Cj3rOdmTQG2LmTpmLy3MwrLp1DcQJ4Po1c+AmjSIk/U4AA=="
 }
