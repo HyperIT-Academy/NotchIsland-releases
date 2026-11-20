@@ -1,9 +1,9 @@
 {
-  "version": "0.5.34",
-  "build": 43,
+  "version": "0.5.35",
+  "build": 44,
   "minSystemVersion": "14.2",
-  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.34/NotchIsland-0.5.34.zip",
-  "sha256": "6d3c1f994dd0ef209114f3faca16a84c8965d265695375893897ca8ae8670c1b",
-  "notes": "Поки йде урок, праворуч від чолки з'являється таймер — скільки лишилось до кінця заняття (останні 5 хвилин — оранжевим). Між уроками показується відлік до наступного, як і раніше. У панелі «Уроки» — час завершення, прогрес уроку і найближчі заняття. Працює з календарем macOS, зокрема Google Calendar; вмикається і вимикається плиткою «Уроки» в Налаштуваннях.",
-  "signature": "vYhG3FRE8UtJYx//fQv92fMcQJkuiCA+whvme665Cj3rOdmTQG2LmTpmLy3MwrLp1DcQJ4Po1c+AmjSIk/U4AA=="
+  "url": "https://github.com/HyperIT-Academy/NotchIsland-releases/releases/download/v0.5.35/NotchIsland-0.5.35.zip",
+  "sha256": "0984afe56f8289831016b1606c7fb31d4b3704a51c72b6a5d9d490bbdff00b0d",
+  "notes": "Виправлення діагностики острова: застосунок тепер записує у журнал (~/Library/Logs/NotchIsland/overlay-visibility.log), чому і за яким вікном він ховає острів. Це допоможе знайти причину, якщо острів знову зникне. Поведінка острова не змінилась.",
+  "signature": "oYRiFYB1CU044nvQ9nBWuZKKsJgyghW03VBH92pyYo6ACvaKbiFOZm3EG9gjRU0dsvl01UkIs0XtKQWHHsCbCA=="
 }
